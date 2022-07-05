@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a89cb8aa-1ddc-4282-83ae-71c02970c55c" name="Changes" comment="Pawn">
-      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Bishop.java" afterDir="false" />
+    <list default="true" id="a89cb8aa-1ddc-4282-83ae-71c02970c55c" name="Changes" comment="Bishop">
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Knight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
@@ -201,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656948062208</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Bishop">
+      <created>1657027425139</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1657027425139</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +242,8 @@
     <MESSAGE value="Checkmate logic" />
     <MESSAGE value="Piece move count" />
     <MESSAGE value="Pawn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pawn" />
+    <MESSAGE value="Bishop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bishop" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
