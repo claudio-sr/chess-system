@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a89cb8aa-1ddc-4282-83ae-71c02970c55c" name="Changes" comment="Special move - En Passant">
+    <list default="true" id="a89cb8aa-1ddc-4282-83ae-71c02970c55c" name="Changes" comment="Special move - Promotion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657206753156</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Special move - Promotion">
+      <created>1657583381940</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1657583381940</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,7 +258,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create: class Position" />
     <MESSAGE value="Start to implement Board and Piece" />
     <MESSAGE value="chess layer and printing the board" />
     <MESSAGE value="Place pieces on the board" />
@@ -276,7 +282,8 @@
     <MESSAGE value="Create Queen" />
     <MESSAGE value="Special move - castling" />
     <MESSAGE value="Special move - En Passant" />
-    <option name="LAST_COMMIT_MESSAGE" value="Special move - En Passant" />
+    <MESSAGE value="Special move - Promotion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Special move - Promotion" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
